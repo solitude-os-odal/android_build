@@ -71,3 +71,4 @@ PRODUCT_SYSTEM_SERVER_APPS += \
 PRODUCT_DEXPREOPT_SPEED_APPS += \
 
 $(call inherit-product, $(SRC_TARGET_DIR)/product/core_base.mk)
+$(call inherit-product, $(SRC_TARGET_DIR)/product/solitude.mk)
