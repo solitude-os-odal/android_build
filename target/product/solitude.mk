@@ -10,3 +10,4 @@ PRODUCT_PACKAGES += \
     MozillaNlpBackend \
     NominatimNlpBackend \
     OpenWeatherMapWeatherProvider \
+    PrivacyBrowser \
